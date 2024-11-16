@@ -1,8 +1,5 @@
 # Created by https://www.toptal.com/developers/gitignore/api/flask
 # Edit at https://www.toptal.com/developers/gitignore?templates=flask
-/model_and_vectorizer.dump
-.model_and_vectorizer.dump
-model_and_vectorizer.dump
 ### Flask ###
 instance/*
 !instance/.gitignore
